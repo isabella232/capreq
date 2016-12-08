@@ -1,4 +1,4 @@
-package reqcap
+package capreq
 
 import (
 	"bufio"
